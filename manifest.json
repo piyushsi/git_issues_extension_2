@@ -1,6 +1,9 @@
-{"icons": { "16": "src/icon16.png",
-	"48": "src/icon48.png",
-   "128": "src/icon128.png" },
+{
+  "icons": {
+    "16": "src/icon16.png",
+    "48": "src/icon48.png",
+    "128": "src/icon128.png"
+  },
   "manifest_version": 2,
   "name": "Github Solutions",
   "description": "Get your arranged issue page with project name",
