@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Github Solutions",
   "description": "Get your arranged issue page",
-  "version": "0.1",
+  "version": "1.0",
   "author": "Piyush Sinha",
   "content_scripts": [
     {
@@ -10,6 +10,5 @@
       "js": ["src/loader.js"],
       "css": ["src/style.css"]
     }
-  ],
-  "permissions": ["tabs"]
+  ]
 }
