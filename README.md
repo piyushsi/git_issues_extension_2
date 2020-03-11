@@ -10,4 +10,4 @@ $ git clone git@github.com:piyushsi/git.git
 
 3.Check the box for **Developer Mode** in the top right.
 
-4.Click **Load unpacked extension** button and select `Github Solutions` folder to install it.
+4.Click **Load unpacked extension** button and select `Git` folder to install it.
