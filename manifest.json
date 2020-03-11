@@ -3,7 +3,7 @@
    "128": "src/icon128.png" },
   "manifest_version": 2,
   "name": "Github Solutions",
-  "description": "Get your arranged issue page",
+  "description": "Get your arranged issue page with project name",
   "version": "1.0",
   "author": "Piyush Sinha",
   "content_scripts": [
