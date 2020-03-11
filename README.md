@@ -4,7 +4,7 @@
 1.Clone this repository
 ``` https://github.com/piyushsi/git
 $ git clone 
-```git@github.com:piyushsi/git.git
+```
 
 2.Open [chrome://extensions/](chrome://extensions/)
 
