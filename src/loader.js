@@ -20,16 +20,19 @@ setTimeout(function() {
             data = a;
             var h3 = document.createElement("span");
             h3.className = "piyush";
-            h3.textContent = data
+            if(data.split("160px;")[1]!=undefined){
+              h3.textContent = data
               .split("160px;")[1]
               .split(">")[1]
               .split("</span")[0];
             document.getElementById(`issue_${n}`).append(h3);
-          }, 500);
+            }
+           
+          }, 1000);
 
         // status "Not Found"
         case 404:
-          throw response;
+          // throw response;
       }
     });
   });
