@@ -3,11 +3,11 @@
 
 1.Clone this repository
 ``` 
-$ git clone git@github.com:piyushsi/git.git
+$ git clone git@github.com:piyushsi/git_issues_extension.git
 ```
 
 2.Open [chrome://extensions/](chrome://extensions/)
 
 3.Check the box for **Developer Mode** in the top right.
 
-4.Click **Load unpacked extension** button and select `Git` folder to install it.
+4.Click **Load unpacked extension** button and select `git_issues_extension` folder to install it.
