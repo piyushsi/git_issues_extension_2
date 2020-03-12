@@ -11,7 +11,7 @@
   "author": "Piyush Sinha",
   "content_scripts": [
     {
-      "matches": ["https://github.com/*/*/issues"],
+      "matches": ["https://github.com/*/*/*"],
       "js": ["src/loader.js"],
       "css": ["src/style.css"]
     }
