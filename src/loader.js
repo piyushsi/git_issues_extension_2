@@ -11,7 +11,7 @@ if(data.split("160px;")[1]!=undefined){
   function github() {
     arr = Array.from(document.querySelectorAll(".Box-row")).map(a => {
       if(a.innerText.split("#")[1]!=undefined){
-        return a.innerText.split("#")[1][0];
+        return a.innerText.split("#")[1].split(' ')[0];;
       }
     });
     arr.map(n => {
